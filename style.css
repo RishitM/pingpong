@@ -1,0 +1,39 @@
+#header{
+    width: 100%;
+    position:fixed;
+    top:0;
+    font-size: 30px;
+
+}
+#modal_btn{
+    width: 10%;
+    position:fixed;
+    right:0;
+    font-size:25px;
+    height:35px;
+}
+#play_btn{
+   width: 10%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size:25px;
+   height:50px;
+   padding-bottom:20px;
+}
+#status{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size:25px;
+ 
+ }
+ #credit{
+ width: 100%;
+ position: fixed;
+ bottom: 0;
+ }
+ .imgs{
+     display: inline-block;
+     width: 45%;
+     
+ }
